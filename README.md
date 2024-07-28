@@ -1,7 +1,3 @@
-Here’s a description you can use for a GitHub README file based on your provided HTML and CSS code for the “Harshini Furniture” website:
-
----
-
 # Harshini Furniture Website
 
 Welcome to the **Harshini Furniture** website project! This repository contains the code for a modern, responsive website designed for showcasing furniture products and services. The site is intended to provide users with an engaging experience while browsing through various furniture items, learning about the company, and accessing customer support.
